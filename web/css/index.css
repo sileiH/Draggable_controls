@@ -1,0 +1,11 @@
+#container {
+    height: 800px;
+    width: 1024px;
+    background-color: greenyellow;
+}
+
+#chart {
+    height: 400px;
+    width: 600px;
+    border: 1px solid darkred;
+}
